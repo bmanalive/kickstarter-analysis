@@ -33,8 +33,8 @@ Possible Challenges Include:
 2. The least number of successful campaigns started in December.
 
 - What can you conclude about the Outcomes based on Goals?
-* A larger percentage (75.81%) of campaigns with goals below $1000 met or exceeded their goal.
-* The lower the goal range, the more successful campaigns occur.
+- A larger percentage (75.81%) of campaigns with goals below $1000 met or exceeded their goal.
+- The lower the goal range, the more successful campaigns occur.
 
 - What are some limitations of this dataset?
 * The dataset only includes data that Louise has gathered.  There may be additional useful data of which she is unaware.
