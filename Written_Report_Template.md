@@ -12,6 +12,7 @@ Analysis was performed using Excel data provided by Louise.  Charts were created
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch_Month](Resources/Theater_Outcomes_vs_Launch.png)
 
+
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
