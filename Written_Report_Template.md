@@ -10,7 +10,7 @@ The purpose of this analysis is to determine how different play Kickstarter Camp
 Analysis was performed using Excel data provided by Louise.  Charts were created to visualize data to aid in gaining incites.  See images below.
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch_Month](Resources/Theater_Outcomes_vs_Launch_Month.png)
+![Theater_Outcomes_vs_Launch_Month](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
