@@ -16,13 +16,11 @@ Analysis was performed using Excel data provided by Louise.  Charts were created
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-#### Theater_Outcomes_vs_Launch Chart
-Possible Challenges Include:
+#### Possible Challenges for "Theater_Outcomes_vs_Launch" Chart Include:
 * Filtering the date range to only show months
 * Adding axis lables to ensure understanding of chart
 
-#### Outcomes_vs_Goals Chart
-Possible Challenges Include:
+#### Possible Challenges for "Outcomes_vs_Goals" Chart Include:
 * Adding axis lables to ensure understanding of chart
 * To avoid incorrectly typing/retyping numbers and text into formulas for the table referenced by this chart, I created a table of cells that were referenced in the formulas instead (See cells K3 through L12 for breakout of goal ranges, and cells M3 through O3 for list of outcomes below).
 
