@@ -18,9 +18,13 @@ Analysis was performed using Excel data provided by Louise.  Charts were created
 ### Challenges and Difficulties Encountered
 #### Theater_Outcomes_vs_Launch Chart
 Possible Challenges Include:
-* Filter
+* Filtering the date range to only show months
+* Adding axis lables to ensure understanding of chart
+
 #### Outcomes_vs_Goals Chart
-To avoid incorrectly typing/retyping numbers and text into formulas for the table referenced by this chart, I created a table of cells that were referenced in the formulas instead (See cells K3 through L12 for breakout of goal ranges, and cells M3 through O3 for list of outcomes below).
+Possible Challenges Include:
+* Adding axis lables to ensure understanding of chart
+* To avoid incorrectly typing/retyping numbers and text into formulas for the table referenced by this chart, I created a table of cells that were referenced in the formulas instead (See cells K3 through L12 for breakout of goal ranges, and cells M3 through O3 for list of outcomes below).
 
 ## Results
 
