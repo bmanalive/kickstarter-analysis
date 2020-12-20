@@ -33,14 +33,14 @@ Possible Challenges Include:
 2. The least number of successful campaigns started in December.
 
 - What can you conclude about the Outcomes based on Goals?
-- A larger percentage (75.81%) of campaigns with goals below $1000 met or exceeded their goal.
-- The lower the goal range, the more successful campaigns occur.
+ * A larger percentage (75.81%) of campaigns with goals below $1000 met or exceeded their goal.
+ * The lower the goal range, the more successful campaigns occur.
 
 - What are some limitations of this dataset?
-* The dataset only includes data that Louise has gathered.  There may be additional useful data of which she is unaware.
-* The dataset only goes back to 2009
-* The data does not provide any background information about the backers which may be helpful such as address, age, gender, income brackett, etc...
-* The larger the goal range, the less data points available to make an informed decision.
+ * The dataset only includes data that Louise has gathered.  There may be additional useful data of which she is unaware.
+    * The dataset only goes back to 2009
+    * The data does not provide any background information about the backers which may be helpful such as address, age, gender, income brackett, etc...
+    * The larger the goal range, the less data points available to make an informed decision.
 
 - What are some other possible tables and/or graphs that we could create?
 We could look at:
